@@ -1,6 +1,9 @@
-workload makes it hard to properly manage our money, which can sometimes lead to financial instability.
+Student Expense Tracker
+Problem Statement:
 
-Objectives
+As Pisay scholars, we often face difficulty in keeping track of our daily expenses. The overwhelming academic workload makes it hard to properly manage our money, which can sometimes lead to financial instability.
+
+Objectives:
 
 Help students track their expenses easily and effectively.
 
@@ -14,7 +17,7 @@ Separate expenses into needs and wants to promote financial awareness.
 
 Keep the interface simple with a menu-like structure for user-friendly navigation.
 
-Planned Inputs and Outputs
+Planned Inputs and Outputs:
 
 Inputs:
 
