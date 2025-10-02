@@ -1,48 +1,91 @@
-Student Expense Tracker
-Problem Statement:
+# Project Title: Student Expense Tracker
 
-As Pisay scholars, we often face difficulty in keeping track of our daily expenses. The overwhelming academic workload makes it hard to properly manage our money, which can sometimes lead to financial instability.
+## Project Description: This project is aimed to help students track their expenses
 
-Objectives:
+## How to run the program 
+1. Make sure you have Python installed. 
+2. Download the file "Expense_Tracker.py"
+3. Open a terminal or command prompt
+4. Run the program by pressing F5 or clicking "Run"
+5. Follow the on-screen instructions to enter the amount of money, deductions, additions, or if you want to classify.
 
-Help students track their expenses easily and effectively.
+## Features
+-Ask for the total balance
+-Ask if they will Add, deduct, classify, or end the program
+-Depending on what they pick the program will add, deduct or classify transactions
+-When classifying a menu will show to help the user classify their expenses 
 
-Provide a system where users can input their total amount of money and manage it like a simple bank account.
+## Example output
+Enter your total amount of cash: 
+> 500
 
-Allow adding and deducting money freely.
+What would you like to do?
+[1] Add Cash
+[2] Deduct Expense
+[3] Classify Expense
+[4] Exit
+> 1
 
-Include an expense classification system (e.g., Food, Transportation, Bills, Entertainment, Miscellaneous).
+Enter amount to add: 
+> 200
+New balance: 700
 
-Separate expenses into needs and wants to promote financial awareness.
+What would you like to do?
+[1] Add Cash
+[2] Deduct Expense
+[3] Classify Expense
+[4] Exit
+> 2
 
-Keep the interface simple with a menu-like structure for user-friendly navigation.
+Enter expense amount: 
+> 150
+New balance: 550
 
-Planned Inputs and Outputs:
+What would you like to do?
+[1] Add Cash
+[2] Deduct Expense
+[3] Classify Expense
+[4] Exit
+> 3
 
-Inputs:
+Enter what you bought: 
+> Bus Ticket
+Choose classification
+[1] Food
+[2] Transportation
+[3] Bills/Utilities
+[4] Entertainment
+[5] Others
+> 2
+Bus Ticket has been saved under classification
 
-Initial total cash available
+What would you like to do?
+[1] Add Cash
+[2] Deduct Expense
+[3] Classify Expense
+[4] Exit
+> 3
 
-Expenses made
+Enter what you bought: 
+> Pizza
+Choose classification
+[1] Food
+[2] Transportation
+[3] Bills/Utilities
+[4] Entertainment
+[5] Others
+> 1
+Pizza has been saved under classification
 
-Amount of money to add
+What would you like to do?
+[1] Add Cash
+[2] Deduct Expense
+[3] Classify Expense
+[4] Exit
+> 4
 
-Expense classifications (Food, School, Miscellaneous, etc.)
+Exiting program. Final balance: 550
 
-Outputs:
-
-Updated balance after each transaction
-
-Saved record of classified expenses
-
-Final balance upon program exit
-
-Future Enhancements
-
-Export classified expenses into a report file.
-
-Generate charts/graphs for spending habits.
-
-Include reminders for upcoming expenses (e.g., bills).
-
-Add savings goal tracker.
+## Contributors: 
+Student 1: Nishan Gary S. Jayasinghe Lindegedara -Project planning and interface concept maker
+Student 2: Phil Orlan D. Majam -Main coder and overall concept maker
