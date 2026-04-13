@@ -5,7 +5,7 @@
 ## How to run the program 
 1. Make sure you have Python and Flask installed. 
 2. Download the folder "Spendo_proj" and place it on your desktop
-3. Open a terminal or command prompt and input "cd Desktop\Spendo_proj"
+3. Open a terminal or command prompt and input "cd Desktop\Spendo_proj\CS2"
 4. Run the program by inputting "python spendo.py"
 5. Copy the link provided after and paste it into your desired browser (preferrably chrome)
 6. Follow the on-screen instructions to enter the amount of money, deductions, additions, classifying and viewing your transactions.
