@@ -1,0 +1,29 @@
+{
+    "balance": 180.0,
+    "transactions": [
+        {
+            "id": 1776172349.011964,
+            "name": "work",
+            "amount": 60.0,
+            "type": "income",
+            "category": "Others",
+            "date": "2026-04-14 21:12:29"
+        },
+        {
+            "id": 1776172349.796162,
+            "name": "work",
+            "amount": 60.0,
+            "type": "income",
+            "category": "Others",
+            "date": "2026-04-14 21:12:29"
+        },
+        {
+            "id": 1776172350.733083,
+            "name": "work",
+            "amount": 60.0,
+            "type": "income",
+            "category": "Others",
+            "date": "2026-04-14 21:12:30"
+        }
+    ]
+}
