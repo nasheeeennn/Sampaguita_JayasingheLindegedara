@@ -39,6 +39,27 @@ Month:
 
 Year:
 +3000 / -750
+
+## Techonologies Used
+
+Python — backend programming language
+Flask — web framework
+HTML — webpage structure
+JavaScript — interactivity and dynamic updates
+JSON — data storage and transfer format
+
+## Sources for the technologies used:
+
+Mozilla. (2025). HTML: HyperText Markup Language. MDN Web Docs. https://developer.mozilla.org/
+
+Mozilla. (2025). Fetch API. MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+Pallets Projects. (2025). Flask Documentation. https://flask.palletsprojects.com/
+
+Python Software Foundation. (2025). datetime — Basic date and time types. Python Documentation. https://docs.python.org/3/library/datetime.html
+
+Python Software Foundation. (2025). json — JSON encoder and decoder. Python Documentation. https://docs.python.org/3/library/json.html
+
 ## Contributions: 
 Phil Orlan D. Majam: Coder and backend maker
 Nishan Gary S. Jayasinghe Lindegedara interface maker and overall concept maker
